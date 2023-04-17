@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapYoutube</string>
+    <string name="title_home">Home</string>
+    <string name="title_empty">Empty</string>
+    <string name="title_video">Video</string>
+    <string name="play">Play On Youtube</string>
+</resources>
