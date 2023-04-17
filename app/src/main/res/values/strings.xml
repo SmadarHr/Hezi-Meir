@@ -4,4 +4,5 @@
     <string name="title_empty">Empty</string>
     <string name="title_video">Video</string>
     <string name="play">Play On Youtube</string>
+    <string name="search_video">Search Video</string>
 </resources>

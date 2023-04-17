@@ -21,6 +21,7 @@ class HomeViewModel(
         if (query.isEmpty()) {
             return
         }
+
         actionMutableLiveData.value = Action.StartLoading
 
         viewModelScope.launch {
